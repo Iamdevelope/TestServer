@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1539594974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3f1455691adc09f89dea628a65445c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 852276f3237f14c9d13391bb6dc9f568
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4935b8cffc2518c4fbbace9a04e47121, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/CharacterPrefabs/huboshi.prefab
+- Assets/Resources/CharacterPrefabs/daishulaoshi.prefab
+- Assets/Resources/CharacterPrefabs/xiongmaopangpang.prefab
+- Assets/Resources/CharacterPrefabs/minimao.prefab
+Dependencies: []

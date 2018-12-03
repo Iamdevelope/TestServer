@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 87244009
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: dinosaurchangefoam2.dinosaurchangefoam2
+      Dependencies: {}
+    Info_1:
+      Name: dinosaurchangefoam.dinosaurchangefoam
+      Dependencies: {}
+    Info_2:
+      Name: qipao.qipao
+      Dependencies: {}
+    Info_3:
+      Name: images1.images1
+      Dependencies: {}
+    Info_4:
+      Name: images2.images2
+      Dependencies: {}
+    Info_5:
+      Name: characterprefabs.characterprefabs
+      Dependencies: {}
+    Info_6:
+      Name: allbookimage.allbookimage
+      Dependencies: {}

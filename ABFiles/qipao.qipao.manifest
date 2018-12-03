@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3983660791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 209d857ef0292ec5eedaff1d8ad20f8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0605fe76d012b1a951d4b995dc7210fb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Book_01_klbpm/Texiao/qipao/qipao.tga
+- Assets/Book_01_klbpm/Texiao/qipao/paopao.png
+- Assets/Book_01_klbpm/Texiao/qipao/Particle System (2).prefab
+- Assets/Book_01_klbpm/Texiao/qipao/Particle System.prefab
+- Assets/Book_01_klbpm/Texiao/qipao/paopaoi2.mat
+- Assets/Book_01_klbpm/Texiao/qipao/Particle System (1).prefab
+- Assets/Book_01_klbpm/Texiao/qipao/paopao.mat
+Dependencies: []

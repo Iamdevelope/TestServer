@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 514732633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a279ac8b3d65609320da12c2aac9e670
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/AllBookImage/yishu/S/DinosaurChangeFoam10.jpg
+- Assets/Resources/AllBookImage/shehui/S/DinosaurChangeFoam7.jpg
+- Assets/Resources/AllBookImage/jiankang/S/DinosaurChangeFoam2_S.jpg
+- Assets/Resources/AllBookImage/jiankang/S/DinosaurChangeFoam_S.jpg
+- Assets/Resources/AllBookImage/jiankang/S/images2_S.jpg
+- Assets/Resources/AllBookImage/yishu/S/images12.jpg
+- Assets/Resources/AllBookImage/kexue/S/images3.jpg
+- Assets/Resources/AllBookImage/shehui/L/images6.jpg
+- Assets/Resources/AllBookImage/shehui/S/images10.jpg
+- Assets/Resources/AllBookImage/kexue/L/DinosaurChangeFoam1.jpg
+- Assets/Resources/AllBookImage/yuyan/S/images16.jpg
+- Assets/Resources/AllBookImage/jiankang/L/images1_L.jpg
+- Assets/Resources/AllBookImage/shehui/M/images7.jpg
+- Assets/Resources/AllBookImage/jiankang/L/images2_L.jpg
+- Assets/Resources/AllBookImage/jiankang/L/DinosaurChangeFoam2_L.jpg
+- Assets/Resources/AllBookImage/jiankang/L/DinosaurChangeFoam_L.jpg
+- Assets/Resources/AllBookImage/kexue/M/DinosaurChangeFoam2.jpg
+- Assets/Resources/AllBookImage/jiankang/S/images1_S.jpg
+- Assets/Resources/AllBookImage/yuyan/L/images13.jpg
+- Assets/Resources/AllBookImage/kexue/S/DinosaurChangeFoam4.jpg
+- Assets/Resources/AllBookImage/kexue/S/images4.jpg
+- Assets/Resources/AllBookImage/shehui/S/images9.jpg
+- Assets/Resources/AllBookImage/shehui/M/DinosaurChangeFoam6.jpg
+- Assets/Resources/AllBookImage/shehui/L/DinosaurChangeFoam5.jpg
+- Assets/Resources/AllBookImage/yishu/S/images11.jpg
+- Assets/Resources/AllBookImage/yishu/M/DinosaurChangeFoam9.jpg
+- Assets/Resources/AllBookImage/yishu/L/DinosaurChangeFoam8.jpg
+- Assets/Resources/AllBookImage/jiankang/M/images1_M.jpg
+- Assets/Resources/AllBookImage/kexue/S/DinosaurChangeFoam3.jpg
+- Assets/Resources/AllBookImage/yuyan/S/images15.jpg
+- Assets/Resources/AllBookImage/shehui/L/images5.jpg
+- Assets/Resources/AllBookImage/yuyan/S/DinosaurChangeFoam11.jpg
+- Assets/Resources/AllBookImage/yuyan/M/images14.jpg
+- Assets/Resources/AllBookImage/shehui/M/images8.jpg
+Dependencies: []

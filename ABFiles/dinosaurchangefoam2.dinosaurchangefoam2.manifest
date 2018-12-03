@@ -1,0 +1,129 @@
+ManifestFileVersion: 0
+CRC: 286471430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1700633d65ca306fd7604deb24a8f7c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f0fc1a7a81d0819c597e67bb2384407
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1862395651, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45213d63d24755d44bca58df289f2969, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5dc9a5c4bfd2ae046872afd0679a3b0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66e71fc67b84d71478091e194f2a1a39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68e95c3830cac43c0b74e147ad7ca853, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43ecc2bfb1b05b4ebe8f69526fafdd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f825bb5ce93d6ab429dfa508444119b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70ef69bc183af574db74b7e3dead9132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3978ef68d9c96418aa827354b4208b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/17.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Object/4_3D.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/4.jpg
+- "Assets/Resources/Books/DinosaurChangeFoam2_L/UIButtonSprite/5_\u706B\u5C71\u7206\u53D1.prefab"
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/6.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/12.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/2.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/8.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/15.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/3.jpg
+- "Assets/Resources/Books/DinosaurChangeFoam2_L/UIButtonSprite/5_0828\u9668\u77F3.prefab"
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/8_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Video/11_shiyan.mp4
+- "Assets/Resources/Books/DinosaurChangeFoam2_L/Video/5_0828\u9668\u77F3.mp4"
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/13.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/10.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/11.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/12.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/9_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/10_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/7_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/7.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/1.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/9.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/3.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/11_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/9.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Object/12_3D.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/5_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/13_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/13.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/4.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/4_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/5.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/16.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/12_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/10.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/11.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/UIButtonSprite/11_shiyan.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sound/2.mp3
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/7.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/6_BG.prefab
+- "Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/15\u5C01\u5E95.jpg"
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/1.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/14_BG.prefab
+- "Assets/Resources/Books/DinosaurChangeFoam2_L/Video/5_\u706B\u5C71\u7206\u53D1.mp4"
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Sprites/3_BG.prefab
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/14.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/8.jpg
+- Assets/Resources/Books/DinosaurChangeFoam2_L/Textures/5.jpg
+Dependencies: []
